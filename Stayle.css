@@ -1,0 +1,26 @@
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#333, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ h1 {
+          text-align: center;
+          font-family:"Garamond";
+} 
+
+h3{
+  font-size: 30px;
+  background: -webkit-linear-gradient(#333, #eee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h3 {
+          text-align: center;
+}
+
+body{
+    background: linear-gradient(to bottom, #33ccff 0%, #000066 100%);
+}     
